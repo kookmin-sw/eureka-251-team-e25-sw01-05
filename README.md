@@ -1,4 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
+
+<img src = "유레카 프로젝트 1분반 5팀.jpg">
+
 # Welcome to 5팀
 
 ## 1️⃣ 팀원 소개
