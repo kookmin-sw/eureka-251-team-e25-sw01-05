@@ -3,7 +3,8 @@
 <img src = "유레카 프로젝트 1분반 5팀.jpg">
 
 # 파일 다운로드
-[Download](https://drive.google.com/uc?export=download&id=1lP504WZOJKkMhogWJyt5q-xrgHChXu2f)
+[Download(pdf)](https://drive.google.com/uc?export=download&id=1lP504WZOJKkMhogWJyt5q-xrgHChXu2f)
+[Download(jpg)](https://drive.google.com/uc?export=download&id=1MQPSMEVqtujtq804BIPeBNiFUWiBxr_U)
 
 # Welcome to 5팀
 
