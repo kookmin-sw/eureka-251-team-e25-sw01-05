@@ -252,6 +252,11 @@ AI와 연동된 생체칩은 인간의 판단력과 분석력을 보완하여 �
 # (11.14) 대학원 선배 만나기기
 
 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/aac8024b-c049-4554-9807-bc92e3a262df" width="250" />
+  <img src="https://github.com/user-attachments/assets/65aaacf6-9331-456b-8cb1-327c4bb67543" width="250" />
+</p>
+
 
 # 🧪 EAIC 연구실
 
